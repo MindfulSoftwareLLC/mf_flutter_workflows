@@ -1,0 +1,11 @@
+name: dart_package
+description: An example Dart package created with mindful_software_cli
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.19.2
+  mindful_software_analysis: ^4.0.0

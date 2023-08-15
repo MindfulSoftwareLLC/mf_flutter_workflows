@@ -1,0 +1,16 @@
+name: flutter_package
+description: An example Flutter package created with mindful_software_cli
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mindful_software_analysis: ^4.0.0
